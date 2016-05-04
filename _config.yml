@@ -12,7 +12,7 @@ timezone:
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://luodi.pub
-root: /hexo-theme-huxblog/
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -141,5 +141,5 @@ theme: huxblog
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:LuoDi-Nate/luodi.github.io.git
-  branch: gh-pages
+  repo: git@github.com:LuoDi-Nate/LuoDi-Nate.github.io.git
+  branch: master
